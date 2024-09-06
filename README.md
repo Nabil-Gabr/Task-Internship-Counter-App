@@ -1,17 +1,8 @@
-# build_simple_counter_app
+## build_simple_counter_app
 
-A new Flutter project.
+Excited to share with all of you that, I just Finished a simple Counter App task assigned by Internship Pakistan..
 
-## Getting Started
+A simple Counter App which Increment or Decrement the value When Buttons are Pressed.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Task-Internship-Counter-App
+### Application Screens :
+https://github.com/user-attachments/assets/e10bc363-1936-407e-b7fe-e6aef16129d9
